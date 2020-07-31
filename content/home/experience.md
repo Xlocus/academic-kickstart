@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   description = """"""
 
 [[experience]]
-  title = ""Haier Smart+" Science and Technology Innovation Competition - Research on AI-based Product Surface Quality Inspection Issues"
+  title = "'Haier Smart+' Science and Technology Innovation Competition - Research on AI-based Product Surface Quality Inspection Issues"
   company = "Special Prize."
   company_url = ""
   location = "Nanjing, China"
