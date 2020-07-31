@@ -20,7 +20,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include video analysis, object detection and deep learning.
 
-research interests:
+interests:
 - Video Analysis
 - Object Detection
 - Deep Learning
