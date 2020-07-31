@@ -20,7 +20,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include video analysis, object detection and deep learning.
 
-interests:
+research interests:
 - Video Analysis
 - Object Detection
 - Deep Learning
@@ -52,6 +52,5 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I'm a second year M.Sc. student of College of Computer Science and Technology/College of Artificial Intelligence in Nanjing University of Aeronautics and Astronautics. Before that, I received my B.S. degree in Software Engineering in June 2015 from Nanjing Xiaozhuang University. 
+Currently, my research direction is computer vision, especially object detection.
