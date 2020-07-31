@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "M.S. in School of Computer Science and Technology/School of Artificial Intelligence"
   company_url = ""
   location = "Nanjing, China"
-  date_start = "2017-01-01"
+  date_start = "2018-09-01"
   date_end = ""
   description = """
   Responsibilities include:
