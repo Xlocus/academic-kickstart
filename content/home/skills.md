@@ -17,8 +17,8 @@ subtitle = ""
 [[feature]]
   icon = "code"
   icon_pack = "fas"
-  name = "R"
-  description = "90%"
+  name = "Programming"
+  description = "C, C++, Python, Shell"
   
 [[feature]]
   icon = "chart-line"
