@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Nanjing University of Aeronautics and Astronautics"
-  company = "M.S. in School of Computer Science and Technology/School of Artificial Intelligence"
+  company = "M.S. in College of Computer Science and Technology/College of Artificial Intelligence"
   company_url = ""
   location = "Nanjing, China"
   date_start = "2018-09-01"
@@ -27,7 +27,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Nanjing Xiaozhuang University"
-  company = "B.S. in School of Information Engineering/School of Artificial Intelligence"
+  company = "B.S. in College of Information Engineering/College of Artificial Intelligence"
   company_url = ""
   location = "Nanjing, China"
   date_start = "2011-09-01"
