@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "Education"
+title = "Experience"
 subtitle = ""
 
 # Date format for experience
@@ -18,19 +18,27 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Nanjing University of Aeronautics and Astronautics"
-  company = "M.S. in School of Computer Science and Technology/School of Artificial Intelligence"
-  #company_url = "https://cs.nuaa.edu.cn/"
-  #location = "Nanjing, China"
-  date_start = "2018-09-01"
+  title = "CEO"
+  company = "GenCoin"
+  company_url = ""
+  location = "California"
+  date_start = "2017-01-01"
   date_end = ""
+  description = """
+  Responsibilities include:
+  
+  * Analysing
+  * Modelling
+  * Deploying
+  """
 
 [[experience]]
-  title = "NanJing XiaoZhuang University"
-  company = "B.S. in School of Information Engineering/School of Artificial Intelligence"
-  #company_url = "https://ie.njxzc.edu.cn/"
-  #location = "Nanjing, China"
-  date_start = "2011-09-01"
-  date_end = "2015-6-31"
+  title = "Professor"
+  company = "University X"
+  company_url = ""
+  location = "California"
+  date_start = "2016-01-01"
+  date_end = "2016-12-31"
+  description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
