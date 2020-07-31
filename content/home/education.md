@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Nanjing University of Aeronautics and Astronautics"
-  company = "GenCoin"
+  company = "M.S. in School of Computer Science and Technology/School of Artificial Intelligence"
   company_url = ""
   location = "California"
   date_start = "2017-01-01"
