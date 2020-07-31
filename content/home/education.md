@@ -20,16 +20,16 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Nanjing University of Aeronautics and Astronautics"
   company = "M.S. in School of Computer Science and Technology/School of Artificial Intelligence"
-  company_url = "http://cs.nuaa.edu.cn/"
-  location = "Nanjing, China"
+  #company_url = "https://cs.nuaa.edu.cn/"
+  #location = "Nanjing, China"
   date_start = "2018-09-01"
   date_end = ""
 
 [[experience]]
   title = "NanJing XiaoZhuang University"
   company = "B.S. in School of Information Engineering/School of Artificial Intelligence"
-  company_url = "http://ie.njxzc.edu.cn/"
-  location = "Nanjing, China"
+  #company_url = "https://ie.njxzc.edu.cn/"
+  #location = "Nanjing, China"
   date_start = "2011-09-01"
   date_end = "2015-6-31"
 
