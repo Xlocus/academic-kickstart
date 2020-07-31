@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Graduate of Software Engineering
+role: Graduate student of Software Engineering
 
 # Organizations/Affiliations
 organizations:
