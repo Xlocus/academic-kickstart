@@ -35,4 +35,13 @@ date_format = "Jan 2006"
   date_end = "2019-10-28"
   description = """"""
 
+[[experience]]
+  title = ""Haier Smart+" Science and Technology Innovation Competition - Research on AI-based Product Surface Quality Inspection Issues"
+  company = "Special Prize."
+  company_url = ""
+  location = "Nanjing, China"
+  date_start = "2019-08-01"
+  date_end = "2019-11-28"
+  description = """"""
+
 +++
