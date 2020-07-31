@@ -20,14 +20,14 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Nanjing University of Aeronautics and Astronautics"
   company = "M.S. in School of Computer Science and Technology/School of Artificial Intelligence"
-  company_url = "https://cs.nuaa.edu.cn/"
+  company_url = ""
   location = "Nanjing, China"
   date_start = "2018-09-01"
   date_end = ""
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Nanjing Xiaozhuang University"
+  company = "B.S. in School of Information Engineering/School of Artificial Intelligence"
   company_url = ""
   location = "California"
   date_start = "2016-01-01"
