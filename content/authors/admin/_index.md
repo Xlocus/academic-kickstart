@@ -21,9 +21,9 @@ organizations:
 bio: My research interests include video analysis, object detection and deep learning.
 
 interests:
+- Video Analysis
+- Object Detection
 - Deep Learning
-- Computer Vision
-- Video/Image Processing
 
 education:
   courses:
