@@ -32,7 +32,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: yi_sun@nuaa.edu.cn
+  link: mailto:yi_sun@nuaa.edu.cn
 - icon: github
   icon_pack: fab
   link: https://github.com/Xlocus
