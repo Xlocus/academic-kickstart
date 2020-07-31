@@ -32,6 +32,18 @@ subtitle = ""
   name = "Data Science"
   description = "Scikit-Learn, NumPy, Pandas, Matplotlib, Common Machine Learning Models"
 
+[[feature]]
+  icon = "tools"
+  icon_pack = "fas"
+  name = "Tools"
+  description = "PyCharm, VS Code, XCode, Jupyter, Git"
+
+[[feature]]
+  icon = "book-open"
+  icon_pack = "fas"
+  name = "Reading"
+  description = "Science Magazine, English Newspapers, Science Fiction, etc."
+
 # Uncomment to use emoji icons.
 # [[feature]]
 #  icon = ":smile:"
