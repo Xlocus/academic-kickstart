@@ -44,6 +44,12 @@ subtitle = ""
   name = "Reading"
   description = "Science Magazine, English Newspapers, Science Fiction, etc."
 
+[[feature]]
+  icon = "heart"
+  icon_pack = "fas"
+  name = "Sports"
+  description = "Basketball, Badminton, Swimming, etc."
+
 # Uncomment to use emoji icons.
 # [[feature]]
 #  icon = ":smile:"
