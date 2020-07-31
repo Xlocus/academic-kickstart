@@ -31,6 +31,6 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Nanjing, China"
   date_start = "2011-09-01"
-  date_end = "2015-6-15"
+  date_end = "2015-06-15"
 
 +++
