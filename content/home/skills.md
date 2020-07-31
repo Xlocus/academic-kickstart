@@ -21,16 +21,16 @@ subtitle = ""
   description = "C, C++, Python, Shell"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "robot"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Deep Learning"
+  description = "PyTorch, TensorFlow, Caffe, Common computer Vision Models"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "chart-line"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Data Science"
+  description = "Scikit-Learn, NumPy, Pandas, Matplotlib, Common Machine Learning Models"
 
 # Uncomment to use emoji icons.
 # [[feature]]
