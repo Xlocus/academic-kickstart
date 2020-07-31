@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Yi Sun
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Graduate of Software Engineering
 
 # Organizations/Affiliations
 organizations:
@@ -18,12 +18,12 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include video analysis, object detection and deep learning.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Deep Learning
+- Computer Vision
+- Video/Image Processing
 
 education:
   courses:
