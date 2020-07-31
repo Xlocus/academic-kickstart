@@ -20,25 +20,17 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Nanjing University of Aeronautics and Astronautics"
   company = "M.S. in School of Computer Science and Technology/School of Artificial Intelligence"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  company_url = "http://cs.nuaa.edu.cn/"
+  location = "Nanjing, China"
+  date_start = "2018-09-01"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "NanJing XiaoZhuang University"
+  company = "B.S. in School of Information Engineering/School of Artificial Intelligence"
+  company_url = "http://ie.njxzc.edu.cn/"
+  location = "Nanjing, China"
+  date_start = "2011-09-01"
+  date_end = "2015-6-31"
 
 +++
