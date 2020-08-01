@@ -34,6 +34,10 @@ subtitle = ""
   tag = "signal"
   
   [[content.filter_button]]
+  name = "Data Mining"
+  tag = "trajectory"
+  
+  [[content.filter_button]]
   name = "Object Detection"
   tag = "object detection"
 
