@@ -2,7 +2,7 @@
 title: Vessel Trajectory Data Analysis
 summary: Trajectory analysis and mining of marine vessels.
 tags:
-- trajectory 
+- data mining 
 date: "2019-12-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
