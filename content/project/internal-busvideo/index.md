@@ -1,5 +1,5 @@
 ---
-title: crowd counting based on bus surveillance video
+title: Crowd Counting Based on Bus Surveillance Video
 summary: Counting the number of people in the bus through the object detection method.
 tags:
 - object detection 
