@@ -32,4 +32,5 @@ slides: example
 
 Mobile phone signaling is the communication data between the mobile phone user and the transmitting base station or micro station. As soon as the mobile phone is turned on and the operator (China Mobile, China Unicom, China Telecom) is displayed on the mobile phone screen, the signaling data begins to be generated .
 It is a control command in the communication system. It can guide the coordinated operation of terminals, switching systems and transmission systems, establish temporary communication channels between designated terminals, and maintain the normal operation of the network itself.
+
 The sample size of mobile phone signaling data is large, the data is objective and comprehensive, the sampling will not have obvious tendency, and the data has strong temporal and spatial continuity, and the entire process of traffic travel can be observed, which is unmatched by any other data source.
