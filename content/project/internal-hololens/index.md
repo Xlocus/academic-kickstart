@@ -9,14 +9,14 @@ date: "2019-04-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Photo from the Internet
   focal_point: Smart
 
 links:
-- icon: twitter
+- icon: github
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/
+  url: https://github.com/Xlocus
 url_code: ""
 url_pdf: ""
 url_slides: ""
