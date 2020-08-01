@@ -2,7 +2,7 @@
 title: Mobile Phone Signaling Data Analysis
 summary: Data analysis and mining based on Mobile Phone Signaling Data.
 tags:
-- signal 
+- data mining 
 date: "2019-09-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
