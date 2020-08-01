@@ -30,8 +30,12 @@ subtitle = ""
   tag = "HoLolens"
   
   [[content.filter_button]]
-  name = "Other"
-  tag = "Demo"
+  name = "Data Mining"
+  tag = "signal"
+  
+  [[content.filter_button]]
+  name = "Object Detection"
+  tag = "object detection"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
