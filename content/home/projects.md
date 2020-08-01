@@ -31,11 +31,7 @@ subtitle = ""
   
   [[content.filter_button]]
   name = "Data Mining"
-  tag = "signal"
-  
-  [[content.filter_button]]
-  name = "Data Mining"
-  tag = "trajectory"
+  tag = "data mining"
   
   [[content.filter_button]]
   name = "Object Detection"
