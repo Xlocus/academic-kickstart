@@ -52,6 +52,6 @@ user_groups:
 - Visitors
 ---
 
-I'm a third year M.Sc. student of College of Computer Science and Technology/College of Artificial Intelligence in Nanjing University of Aeronautics and Astronautics. Before that, I received my B.S. degree in Software Engineering in June 2015 from Nanjing Xiaozhuang University.
+I'm a third year M.E. student of College of Computer Science and Technology/College of Artificial Intelligence in Nanjing University of Aeronautics and Astronautics. Before that, Before that, I received my bachelor's degree in software engineering from Nanjing Xiaozhuang University in June 2015.
 
 Currently, I am focusing on computer vision, especially object detection. Computer vision is a field of artificial intelligence that trains computers to interpret and understand the visual world. Using digital images from cameras and videos and deep learning models, machines can accurately identify and classify objects — and then react to what they “see.” Yet, object detection is a computer technology related to computer vision and image processing that deals with detecting instances of semantic objects of a certain class (such as humans, buildings, or cars) in digital images and videos.
