@@ -34,7 +34,7 @@
   weight = 60
 
 [[main]]
-  name = "CV"
+  name = "中文CV"
   url = "files/cv.pdf"
   weight = 70
 
